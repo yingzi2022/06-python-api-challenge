@@ -19,7 +19,8 @@ As a result, the following two deliverables were generated to visulaize the resu
     - A list of places/cities with desireable temperature recommended for future vacation (VacationPy)
 
 # WeatherPy
-
+Analysis details and conclusion were included in the jupyter notebook.
 
 
 # VacationPy
+Analysis details and conclusion were included in the jupyter notebook.
